@@ -1,0 +1,17 @@
+﻿state,population,surface area,population density,space/person,people/apt,population trend,pop trend cat
+Baden_Württemberg,11090990,35751,310,42.55,2.21,0.26,increase
+Bayern,13113880,70552,186,44.28,2.15,0.35,increase
+Berlin,3659468,892,4103,38.66,1.85,0.39,increase
+Brandenburg,2521627,29486,86,40.76,2,-0.12,decrease
+Bremen,681439,419,1626,40.81,1.92,0.11,increase
+Hamburg,1846970,755,2446,37.27,1.99,0.36,increase
+Hessen,6282348,21115,298,43.52,2.16,0.17,increase
+Mecklenburg_Vorpommern,1609529,23180,69,40.09,1.91,-0.47,decrease
+Niedersachsen,7993159,47635,168,46.32,2.14,0.06,stable
+Nordrhein_Westfalen,17935147,34098,526,41.41,2.12,-0.02,stable
+Rheinland_Pfalz,4092379,19853,206,48.32,2.11,0.08,stable
+Saarland,987129,2570,384,49.19,2.06,-0.4,decrease
+Sachsen,4068950,18416,221,39.73,1.83,-0.43,decrease
+Sachsen_Anhalt,2194596,20446,107,42.03,1.85,-0.9,decrease
+Schleswig_Holstein,2903787,15799,184,43.78,2.07,0.22,increase
+Thüringen,2132253,16173,132,40.44,1.97,-0.68,decrease
