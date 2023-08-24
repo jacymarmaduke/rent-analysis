@@ -4,7 +4,7 @@
 This repository contains an in-depth analysis of the German apartment market, with a special focus on how local/regional population and apartment characteristics relate to the cost of rent. The analysis culminated in this Tableau storyboard: https://public.tableau.com/app/profile/jacquelyn.marmaduke/viz/GermanRentStoryboard/Germanrentstoryboard?publish=yes
 
 ## Objective
-My overarching question: How can data help prospective renters find a good deal on a German apartment? Or put in a more analytical way: Which factors best predict an apartment's rent? I narrowed the wide pool of data down to location, the rate of local (district) population growth and a shortlist of influential apartment characteristics. I also used k-means cluster analysis to determine the target rent for five different "personalities" of apartments, and I created a new "hidden gem" variable to judge an apartment's desirability relative to its rent.
+My overarching question: How can data help prospective renters find a good deal on a German apartment? Or put in a more analytical way: Which factors best predict an apartment's rent? I narrowed the wide pool of variables down to location, the rate of local (district) population growth and a shortlist of influential apartment characteristics. I also used k-means cluster analysis to determine the target rent for five different "personalities" of apartments, and I created a new "hidden gem" variable to judge an apartment's desirability relative to its rent.
 
 ## Data
 A Kaggle user scraped over 250,000 residential rental listings from Immoscout24, Germany's top real estate website. The listings, scraped on four dates between 2018 and 2020, include extensive detail on each unit, from monthly rent and apartment size to telecom offers and text descriptions. The raw data is available [here](https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany).
@@ -20,6 +20,7 @@ The rent data files are too large to include in this repository. The raw data is
 **rent project summary:** Contains additional information about the goals of this project and the data sources, including explanations of all variables.
 
 **cleaned data:**
+
 district_pop.csv: Contains each district's population and annual rate of change (percentage, averaged between 2018 and 2020). Source: Statistisches Bundesamt
 
 med_district_rents.csv: Contains the median rent of each district. I edited the district names to match those in the geoJSON file.
@@ -29,7 +30,9 @@ median state rents.csv: Contains the median rent of each state. I edited the sta
 state_pop.csv: Contains population and residential property statistics for each German state. Source: Statistisches Bundesamt
 
 **geo data:**
+
 2_hoch.geo.json: Contains location data for Germany's 16 states (Bundesländer). 
+
 3_mittel.geo.json: Contains location data for 400 German districts (Kreise).
 
 **scripts:** Contains 14 Jupyter notebooks where I carried out data cleaning, analysis, visualization and mapping. 
