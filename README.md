@@ -1,2 +1,3 @@
-# rent-analysis
-A field guide to apartment hunting in Germany: Analysis of German rental units and population data in a series of Python scripts and a visual presentation in Tableau.
+# A Field Guide to Apartment Hunting in Germany
+This repository contains my analysis of German rental units and population data. My analysis in culminated in this Tableau storyboard: https://public.tableau.com/app/profile/jacquelyn.marmaduke/viz/GermanRentStoryboard/Germanrentstoryboard?publish=yes
+
