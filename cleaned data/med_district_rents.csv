@@ -13,13 +13,17 @@ Amberg Städte,666
 Amberg-Sulzbach,620
 Ammerland,770
 Anhalt-Zerbst,464
+Annaberg,430
 Ansbach,780
 Ansbach Städte,651
 Aschaffenburg,990
 Aschaffenburg Städte,970
+Aschersleben-Staßfurt,436
+Aue-Schwarzenberg,430
 Augsburg,1015
 Augsburg Städte,910
 Aurich,590
+Bad Doberan,470
 Bad Dürkheim,850
 Bad Kissingen,700
 Bad Kreuznach,850
@@ -34,14 +38,18 @@ Bayreuth Städte,615
 Berchtesgadener Land,900
 Bergstraße,951
 Berlin,1124
+Bernburg,436
 Bernkastel-Wittlich,665
 Biberach,943
 Bielefeld Städte,742
 Birkenfeld,545
 Bitburg-Prüm,770
+Böblingen,1250
+Böblingen,700
 Bochum Städte,603
 Bodensee,1150
 Bonn Städte,1000
+Bördekreis,452
 Borken,734
 Bottrop Städte,579
 Brandenburg an der Havel Städte,453
@@ -50,12 +58,11 @@ Breisgau-Hochschwarzwald,1225
 Bremen Städte,765
 Bremerhaven Städte,520
 Burgenlandkreis,436
-Böblingen,1250
-Bördekreis,452
 Calw,700
 Celle,650
 Cham,670
 Chemnitz Städte,420
+Chemnitzer Land,427
 Cleves,675
 Cloppenburg,640
 Coburg,565
@@ -70,12 +77,15 @@ Dahme-Spreewald,950
 Darmstadt Städte,1165
 Darmstadt-Dieburg,950
 Deggendorf,710
+Delitzsch,458
 Delmenhorst Städte,612
+Demmin,470
 Dessau Städte,438
 Diepholz,749
 Dillingen,870
 Dingolfing-Landau,695
 Dithmarschen,570
+Döbeln,410
 Donau-Ries,890
 Donnersbergkreis,673
 Dortmund Städte,653
@@ -92,6 +102,7 @@ Emden Städte,575
 Emmendingen,1200
 Emsland,650
 Ennepe-Ruhr,590
+Enz,883
 Enzkreis,883
 Erding,1050
 Erfurt Städte,580
@@ -122,15 +133,17 @@ Gera Städte,429
 Germersheim,850
 Gießen,750
 Gifhorn,785
+Göppingen,899
+Göppingen,834
+Görlitz Städte,415
 Goslar,495
 Gotha,500
+Göttingen,696
 Grafschaft Bentheim,660
 Greifswald,538
+Greifswald Städte,538
 Greiz,411
 Groß-Gerau,950
-Göppingen,899
-Görlitz Städte,415
-Göttingen,696
 Günzburg,860
 Gütersloh,850
 Hagen Städte,506
@@ -141,8 +154,8 @@ Hamelin-Pyrmont,560
 Hamm Städte,554
 Hanover,828
 Harburg,945
-Havelland,625
 Haßberge,660
+Havelland,625
 Heidekreis,630
 Heidelberg Städte,1300
 Heidenheim,750
@@ -168,6 +181,7 @@ Jena Städte,628
 Jerichower Land,473
 Kaiserslautern,695
 Kaiserslautern Städte,550
+Kamenz,448
 Karlsruhe,983
 Karlsruhe Städte,1000
 Kassel,688
@@ -179,6 +193,7 @@ Kiel Städte,684
 Kitzingen,805
 Koblenz Coblenz Städte,840
 Konstanz,1100
+Köthen,464
 Krefeld Städte,640
 Kronach,590
 Kulmbach,625
@@ -198,11 +213,13 @@ Lichtenfels,510
 Limburg-Weilburg,750
 Lindau,1225
 Lippe,620
-Ludwigsburg,1135
-Ludwigshafen Städte,825
+Löbau-Zittau,415
 Lörrach,1055
 Lübeck Städte,700
 Lüchow-Dannenberg,420
+Ludwigsburg,1135
+Ludwigshafen Städte,825
+Ludwigslust,499
 Lüneburg,860
 Magdeburg Städte,509
 Main-Kinzig-Kreis,890
@@ -212,9 +229,13 @@ Main-Taunus-Kreis Städte,1110
 Mainz Städte,975
 Mainz-Bingen,900
 Mannheim Städte,970
+Mansfelder Land,450
 Mansfeld-Südharz,450
 Marburg-Biedenkopf,710
+Märkischer Kreis,555
+Märkisch-Oderland,603
 Mayen-Koblenz,690
+Mecklenburg-Strelitz,470
 Meißen,445
 Memmingen Städte,998
 Merseburg-Querfurt,440
@@ -223,16 +244,18 @@ Mettmann,748
 Miesbach,1300
 Miltenberg,765
 Minden-Lübbecke,590
-Munich Städte,1700
-Märkisch-Oderland,603
-Märkischer Kreis,555
+Mittlerer Erzgebirgskreis,430
+Mittweida,410
 Mönchengladbach Städte,682
 Mühldorf,920
+Muldentalkreis,445
 Mülheim Städte,690
 München,1468
+Munich Städte,1700
 Münster Städte,1035
+Müritz,470
 Neckar-Odenwald-Kreis,615
-Neu-Ulm,1050
+Neubrandenburg Städte,470
 Neuburg-Schrobenhausen,940
 Neumarkt,920
 Neumünster Städte,610
@@ -240,10 +263,13 @@ Neunkirchen,633
 Neustadt,600
 Neustadt Städte,900
 Neustadt-Bad Windsheim,864
+Neu-Ulm,1050
 Neuwied,720
+Niederschlesischer Oberlausitzkreis,415
 Nienburg,641
 Nordfriesland,745
 Nordhausen,438
+Nordvorpommern,470
 Nordwestmecklenburg,470
 Northeim,510
 Nuremberg Städte,857
@@ -257,6 +283,7 @@ Odenwaldkreis,750
 Oder-Spree,645
 Offenbach,1040
 Offenbach am Main Städte,1100
+Ohrekreis,473
 Oldenburg,790
 Oldenburg Städte,825
 Olpe,780
@@ -266,8 +293,10 @@ Osnabrück Städte,770
 Ostalbkreis,834
 Ostallgäu,900
 Osterholz,740
+Osterode,696
 Ostholstein,723
 Ostprignitz-Ruppin,536
+Ostvorpommern,470
 Paderborn,710
 Parchim,499
 Passau,693
@@ -277,29 +306,33 @@ Pfaffenhofen,950
 Pforzheim Städte,775
 Pinneberg,896
 Pirmasens Städte,470
+Plauen Städte,410
 Plön,720
 Potsdam Städte,1026
 Potsdam-Mittelmark,840
 Prignitz,430
+Quedlinburg,438
 Rastatt,980
 Ravensburg,978
 Recklinghausen,575
 Regen,600
 Regensburg,930
 Regensburg Städte,920
-Rems-Murr-Kreis,1111
 Remscheid Städte,554
+Rems-Murr-Kreis,1111
 Rendsburg-Eckernförde,705
 Reutlingen,960
 Rhein-Erft-Kreis,875
+Rheingau-Taunus-Kreis,890
 Rhein-Hunsrück,660
+Rheinisch-Bergischer Kreis,910
+Rhein-Kreis Neuss,682
 Rhein-Lahn,650
 Rhein-Neckar-Kreis,950
 Rhein-Pfalz-Kreis,980
 Rhein-Sieg,869
-Rheingau-Taunus-Kreis,890
-Rheinisch-Bergischer Kreis,910
 Rhön-Grabfeld,596
+Riesa-Großenhain,445
 Rosenheim,1080
 Rosenheim Städte,1120
 Rostock Städte,588
@@ -311,27 +344,34 @@ Rügen,517
 Saale-Holzland,425
 Saale-Orla,466
 Saalfeld-Rudolstadt,436
+Saalkreis,472
+Saarbrücken Städte,750
 Saarlouis,750
 Saarpfalz,720
+Sächsische Schweiz,476
 Salzgitter Städte,490
 Salzlandkreis,436
+Sangerhausen,450
 Sankt Wendel,700
 Schaumburg,600
 Schleswig-Flensburg,694
 Schmalkalden-Meiningen,485
+Schönebeck,436
 Schwabach Städte,803
+Schwäbisch Hall,870
 Schwalm-Eder-Kreis,620
 Schwandorf,761
 Schwarzwald-Baar-Kreis,750
 Schweinfurt,675
 Schweinfurt Städte,860
 Schwerin Städte,506
-Schwäbisch Hall,870
 Segeberg,910
 Siegen-Wittgenstein,667
 Sigmaringen,773
 Soest,625
 Solingen Städte,710
+Soltau-Fallingbostel,630
+Sömmerda,546
 Sonneberg,510
 Speyer Spires Städte,1200
 Spree-Neiße,474
@@ -341,24 +381,25 @@ Starnberg,1500
 Steinburg,590
 Steinfurt,730
 Stendal,455
+Stollberg,430
 Stormarn,935
+Stralsund Städte,517
 Straubing Städte,853
 Straubing-Bogen,810
 Stuttgart Städte,1400
-Suhl Städte,488
-Sächsische Schweiz,476
-Sömmerda,546
 Südliche Weinstraße,812
 Südwestpfalz,593
+Suhl Städte,488
 Teltow-Fläming,639
 Tirschenreuth,465
 Torgau-Oschatz,458
 Traunstein,1045
 Trier Städte,850
 Trier-Saarburg,755
-Tuttlingen,1000
 Tübingen,1058
+Tuttlingen,1000
 Uckermark,455
+Uecker-Randow,538
 Uelzen,622
 Ulm Städte,1090
 Unna,619
@@ -398,3 +439,9 @@ Würzburg Städte,890
 Zollernalbkreis,800
 Zweibrücken Städte,550
 Zwickau Städte,427
+Zwickauer Land,427
+Weißenfels,436
+Güstrow,588
+Bitterfeld,464
+Weißeritzkreis,476
+Wernigerode,438
